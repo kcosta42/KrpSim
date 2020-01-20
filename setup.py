@@ -8,7 +8,7 @@ setup(
   version='0.1',
   description=readme,
   author='kcosta & mtrazzi',
-  url='https://github.com/kcoste/KrpSim',
+  url='https://github.com/kcosta42/KrpSim',
   package_dir={'': 'sources'},
   packages=find_packages('sources', exclude=('tests', 'docs'))
 )
