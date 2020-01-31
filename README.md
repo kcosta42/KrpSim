@@ -2,16 +2,17 @@
 
 About
 -----
->This project introduce us in solving NP-Hard problem.
+>This project introduces us in solving a NP-hard problem.
 >
->We will have to create a program that generates a schedule based on limited time and contrained ressources
+>We had to create a program that generate a task schedule under time/resources constraints.
 
 This is the second project of the Advanced Algorithm branch at School 42 Paris
 
-Algorithms
-----------
-<img src="./images/Parallel_SGS.png"/>
-<img src="./images/Genetic_Algorithm_Scheme.png"/>
+Implemented Algorithms
+----------------------
+- [Parallel Schedule Generation Scheme](./images/Parallel_SGS.png/) as described in [1].
+
+- [Genetic Algorithm Scheme](./images/Genetic_Algorithm_Scheme.png) as described in [1]
 
 Installation
 ------------
@@ -137,8 +138,8 @@ Evaluating: 40:livraison
 Trace completed, no error detected.
 ```
 
-Acknowledgment
+References
 --------------
-Sonke Hartmann - Project Scheduling under Limited Resources (1999)
+[1] Sonke Hartmann - Project Scheduling under Limited Resources (1999)
 
 ##### Project done in 2020
